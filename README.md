@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/santiago-acevedo-urrego-6a3349301/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:sacevedou1@eafit.edu.co">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
@@ -25,7 +25,7 @@ My background spans **SQL & NoSQL databases**, **Business Intelligence (BI)**, *
 - 🎓 Starting my **Data Science specialization** — strengthening analytics, ML, and cloud skills
 - 🧠 **Fast learner** — comfortable adapting to new stacks, frameworks, and problem domains
 - 💬 Ask me about **Python backends**, **API/auth design**, **databases/BI**, **n8n**, **AI/RAG**, or **AWS**
-- 📫 Reach me at **your.email@example.com**
+- 📫 Reach me at **sacevedou1@eafit.edu.co**
 
 ---
 
