@@ -1,4 +1,4 @@
-# Hi 👋, I'm Santiago Acevedo
+# I'm Santiago Acevedo
 
 ### Backend Developer · Software Architecture · Python · Data & Cloud
 
@@ -10,7 +10,7 @@
 
 
 
-## 👨‍💻 About Me
+##  About Me
 
 I'm a **Backend Developer** with a strong focus on **software architecture**, **API design**, and building reliable server-side systems in **Python**. I design and implement scalable backends — from REST APIs and auth layers to database models and cloud deployments — and I think carefully about how systems are structured before writing code.
 
@@ -18,17 +18,17 @@ I'm **frontend-capable** with **React** and can ship functional UIs when the pro
 
 My background spans **SQL & NoSQL databases**, **Business Intelligence (BI)**, **Docker**, and **AWS**. I'm currently starting a **specialization in Data Science** to deepen analytics, modeling, and data engineering — building on the BI and database foundation I already have.
 
-- 🏗️ Strong in **software architecture** — system design, modular backends, and pragmatic trade-offs under real-world constraints
-- 🎓 Starting my **Data Science specialization** — strengthening analytics, ML, and cloud skills
-- 🧠 **Fast learner** — comfortable adapting to new stacks, frameworks, and problem domains
-- 💬 Ask me about **Python backends**, **API/auth design**, **databases/BI**, **n8n**, **AI/RAG**, or **AWS**
-- 📫 Reach me at **[sacevedou1@eafit.edu.co](mailto:sacevedou1@eafit.edu.co)**
+-  Strong in **software architecture** — system design, modular backends, and pragmatic trade-offs under real-world constraints
+-  Starting my **Data Science specialization** — strengthening analytics, ML, and cloud skills
+-  **Fast learner** — comfortable adapting to new stacks, frameworks, and problem domains
+-  Ask me about **Python backends**, **API/auth design**, **databases/BI**, **n8n**, **AI/RAG**, or **AWS**
+-  Reach me at **[sacevedou1@eafit.edu.co](mailto:sacevedou1@eafit.edu.co)**
 
 ---
 
 
 
-## 💼 Experience
+##  Experience
 
 **Global Seguros —** university student intern *(recently completed)* · `Custom Python` · `React`
 
@@ -61,7 +61,7 @@ Worked under **strict constraints on external libraries**, which pushed me to de
 
 
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 
 
@@ -89,7 +89,7 @@ Worked under **strict constraints on external libraries**, which pushed me to de
 
 
 
-## 🚀 What I Build
+##  What I Build
 
 
 | Area                      | Description                                                                                            |
@@ -106,7 +106,7 @@ Worked under **strict constraints on external libraries**, which pushed me to de
 
 
 
-## 🏆 Featured Project — El Que Sabe
+##  Featured Project — El Que Sabe
 
 **Service marketplace** built for **Proyecto Integrador 1** — a university integrator course — based on a challenge from **[Magneto Global](https://www.magneto365.com/)** *(recruitment platform connecting freelancers and contractors)*.
 
@@ -117,8 +117,8 @@ The premise: a **services marketplace** where users request jobs like plumbing a
 
 | Recognition                     |                                                        |
 | ------------------------------- | ------------------------------------------------------ |
-| 🥈 **Magneto Global Challenge** | Finalist in Magneto's annual university contest        |
-| 🏅 **Premios GEMIS**            | Best project of the semester for Proyecto Integrador 1 |
+|  **Magneto Global Challenge** | Finalist in Magneto's annual university contest        |
+|  **Premios GEMIS**            | Best project of the semester for Proyecto Integrador 1 |
 
 
 
@@ -131,13 +131,13 @@ The premise: a **services marketplace** where users request jobs like plumbing a
 
 
 
-> 🔒 Most of my professional work (Tigo, Easy Logistics, insurance, AFACOM) remains **confidential under NDA**. **El Que Sabe** is the only project with **public code** on my GitHub — explore the repos above.
+>  Most of my professional work (Tigo, Easy Logistics, insurance, AFACOM) remains **confidential under NDA**. **El Que Sabe** is the only project with **public code** on my GitHub — explore the repos above.
 
 ---
 
 
 
-## 💼 Other Work Highlights
+##  Other Work Highlights
 
 
 | Project            | Summary                                                                   |
@@ -152,15 +152,15 @@ The premise: a **services marketplace** where users request jobs like plumbing a
 
 
 
-## 💡 Currently Learning & Growing
+##  Currently Learning & Growing
 
-- 📊 **Data Science specialization** — statistics, machine learning, data engineering, and analytics
-- ☁️ **AWS & cloud architecture** — deepening deployment, infrastructure, and scalability practices
-- 🏗️ **System design patterns** — distributed systems, service boundaries, and production-grade backend architecture
-- 🤖 Advanced **RAG** patterns, **multi-agent** orchestration, and LLM-powered systems
+-  **Data Science specialization** — statistics, machine learning, data engineering, and analytics
+-  **AWS & cloud architecture** — deepening deployment, infrastructure, and scalability practices
+-  **System design patterns** — distributed systems, service boundaries, and production-grade backend architecture
+-  Advanced **RAG** patterns, **multi-agent** orchestration, and LLM-powered systems
 
 ---
 
 
 
-*Thanks for visiting! Let's build something great together. 🚀*
+*Thanks for visiting! Let's build something great together.*
